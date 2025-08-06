@@ -3,7 +3,7 @@ name = "machine-learning"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 dependencies = [
     "jupyter>=1.1.1",
     "konlpy>=0.6.0",
@@ -12,7 +12,6 @@ dependencies = [
     "matplotlib>=3.10.3",
     "numpy>=2.2.6",
     "pandas>=2.3.1",
-    "pyldavis>=3.4.1",
     "scikit-learn>=1.7.1",
     "seaborn>=0.13.2",
     "xgboost>=3.0.3",
